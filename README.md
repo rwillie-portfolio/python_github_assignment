@@ -12,6 +12,26 @@ Error Handling: Provides feedback if the user enters a non-numeric value, ensuri
 
 ## How to Run
 To execute this program:
-1. Clone the repository to the local machine
-2. Navigate to the project directory.
-3. Run the program using Python
+1. Clone the repository to the local machine:
+     git clone https://github.com/rwillie-portfolio/python_github_assignment.git
+2.  Navigate to the project directory:
+     cd python_github_assignment
+3. Run the program using Python:
+     pyhton app.py
+
+## Example Output
+Valid Input Example:
+text
+Welcome to my Python program!
+How many hours did you study today? 3.5
+
+You studied 3.50 hours today.
+You are on track to study 24.5 hours this week.
+
+Invalid Input Example:
+text
+Welcome to my Python program!
+How many hours did you study today? abc
+Please enter a valid number.
+
+   
