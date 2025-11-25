@@ -1,8 +1,8 @@
 # python_github_assignment
 
-##Study Time Tracker
+## Study Time Tracker
 
-##Overview
+## Overview
 The study time tracker is a simple Python program designed to help users track and estimate their weekly study hours based on daily input. This is accomplished through a user-friendly interface that allows students to reflect on their own study habits and better set their academic goals
 
 ## Features
